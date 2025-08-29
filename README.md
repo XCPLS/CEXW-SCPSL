@@ -1,0 +1,2 @@
+# CEXW-SCPSL
+菜の小窝SCPSL服务器
